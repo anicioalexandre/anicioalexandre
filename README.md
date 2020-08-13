@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-anicio/)](https://www.linkedin.com/in/alexandre-anicio/)
 
-## Hey you! 👋
+## Hey you! I'm Alexandre 🤘🏽
 
 
 - 🌱 I’m currently focusing on web development technologies
