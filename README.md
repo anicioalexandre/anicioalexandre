@@ -8,5 +8,5 @@
 - :books::hourglass_flowing_sand: Back-end technologies: NodeJS | SQL (MySQL) | NoSQL (MongoDB) | Express | Software architecture (MVC, DDD, SOLID, REST) | Sockets | Deploys
 
 - Projects on GitHub Pages: 
--[bitcoinExplorer](https://bit.ly/bitcoin-explorer)
--[The Daily Prophet](https://anicioalexandre.github.io/daily-prophet-project/)
+  -[bitcoinExplorer](https://bit.ly/bitcoin-explorer)
+  -[The Daily Prophet](https://anicioalexandre.github.io/daily-prophet-project/)
