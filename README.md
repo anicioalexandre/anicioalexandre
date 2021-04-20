@@ -8,6 +8,6 @@
 - :books::hourglass_flowing_sand: Back-end technologies: Python | NodeJS | Express | SQL (MySQL) | NoSQL (MongoDB) | Software architecture (MVC, DDD, SOLID, REST) | Sockets | Deploys
 
 - Projects on GitHub Pages: 
-  - [spotify_app](https://github.com/anicioalexandre/spotify-app) (not deployed yet, need to improve authtoken system) but you can easy run it locally!
+  - [spotify_app](https://github.com/anicioalexandre/spotify-app) *(not deployed yet, need to improve authtoken system) but you can easy run it locally!)*
   - [bitcoinExplorer](https://bit.ly/bitcoin-explorer)
   - [The Daily Prophet](https://anicioalexandre.github.io/daily-prophet-project/)
