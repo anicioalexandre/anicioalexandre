@@ -4,8 +4,8 @@
 
 
 - 🌱 I’m currently focusing on web development technologies
-- :computer: Front-end technologies: Javascript - ES6+ | ReactJS - Redux, Hooks && ContextAPI | Unit Tesing - Jest && React Testing Library | CSS3 && Styled Components | HTML5
-- :books::hourglass_flowing_sand: Back-end technologies: Python | NodeJS | Express | SQL (MySQL) | NoSQL (MongoDB) | Software architecture (MVC, DDD, SOLID, REST) | Sockets | Deploys
+- :computer: Front-end technologies: Javascript/Typescript - ES6+ | ReactJS - Redux, Hooks && ContextAPI | Vue.js | Web Components | Design System & UI/UX | Gatsby | Unit Tesing - Jest && React Testing Library && Enzyme && CyPress | CSS3 && && tailwindCSS && Styled Components | HTML5
+- :books::hourglass_flowing_sand: Back-end technologies: Python | GraphQL | NodeJS | Express | SQL (MySQL) | NoSQL (MongoDB) | Software architecture (MVC, DDD, SOLID, REST) | Sockets | Deploys
 
 - Projects on GitHub Pages: 
   - [spotify_app](https://github.com/anicioalexandre/spotify-app) *(not deployed yet, need to improve authtoken system) but you can easy run it locally!)*
